@@ -1,0 +1,2 @@
+Note scribblings from various blogs, random yt videos etc, screenshot pngs and all not too organized but more like a collection of understandings and thoughts.
+Trying to organise it according to sources if the sources are too large to put in haphazardly. For example, any course or yt video series I see will get its own separate directory with assets, notes, code snippets etc.
